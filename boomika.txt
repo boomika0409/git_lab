@@ -1,2 +1,2 @@
-this a git lab
+this is a git lab
 what is git
